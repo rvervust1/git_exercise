@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sfddddsdfsg
+=======
+sfsdfddssg
+>>>>>>> 02c102e... Edit conflicts.txt
